@@ -1,0 +1,1 @@
+This script is used to calculate Tm value of a DSF experiment using QuantStudio 3. Local minimum of derivative and closest 15 data points were used to fit into a second order polynomial equation for more stable Tm calculation. 
